@@ -3,10 +3,15 @@
 # Installation
 
 Step-1: Clone the repo
+
 Step-2: `git clone https://github.com/Laradock/laradock.git` install docker
+
 Step-3: Get into docker directory: run `sudo docker-compose up -d nginx`
+
 Step-3: run `composer-dump autoload`
+
 Step-4: run `composer install or update`
+
 Step-5: `http://localhost/`
 
 Run the Test:
