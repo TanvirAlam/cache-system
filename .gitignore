@@ -1,0 +1,8 @@
+/build
+/.settings
+/.buildpath
+/.project
+/vendor/
+/docker/
+composer.lock
+composer.phar
