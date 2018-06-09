@@ -1,6 +1,6 @@
 <?php
 
-namespace Src;
+namespace Src\Exceptions;
 
 use Psr\Cache\CacheException;
 
