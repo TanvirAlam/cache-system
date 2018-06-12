@@ -3,7 +3,7 @@
 namespace Src;
 
 use Doctrine\Common\Cache\Cache;
-use Psr\SimpleCache\CacheInterface;
+use Src\Interfaces\CacheInterface;
 
 class SimpleCache implements CacheInterface
 {

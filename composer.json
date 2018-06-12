@@ -1,7 +1,7 @@
 {
   "autoload": {
     "psr-4": {
-      "Src\\": "src"
+      "Src\\": "src/"
     }
   },
   "name": "cache-system",

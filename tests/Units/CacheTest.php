@@ -6,7 +6,7 @@ use DateInterval;
 use DateTime;
 use Doctrine\Common\Cache\ArrayCache;
 use Src\SimpleCache;
-use Psr\SimpleCache\CacheInterface;
+use Src\Interfaces\CacheInterface;
 
 class CacheTest extends \PHPUnit\Framework\TestCase
 {
